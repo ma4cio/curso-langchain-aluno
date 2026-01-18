@@ -1,0 +1,11 @@
+langchain-community>=0.4.0
+langchain-openai>=1.0.0
+langchain-google-genai>=3.0.0
+langchain-postgres>=0.0.16
+langchain-text-splitters>=1.0.0
+pypdf>=6.1.0
+python-dotenv>=1.0.0
+pgvector>=0.3.6
+openai>=2.6.0
+psycopg2-binary>=2.9.0
+

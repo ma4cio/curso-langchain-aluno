@@ -1,0 +1,89 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+>>
+>>
+>>
+endobj
+
+4 0 obj
+<<
+/Length 200
+>>
+stream
+BT
+/F1 12 Tf
+72 720 Td
+(Machine Learning e Inteligencia Artificial) Tj
+0 -20 Td
+(Machine Learning e uma area da inteligencia artificial que) Tj
+0 -15 Td
+(permite que computadores aprendam e melhorem automaticamente) Tj
+0 -15 Td
+(a partir da experiencia, sem serem explicitamente programados.) Tj
+0 -20 Td
+(Os algoritmos de machine learning sao capazes de identificar) Tj
+0 -15 Td
+(padroes em dados e fazer predicoes ou decisoes baseadas) Tj
+0 -15 Td
+(nesses padroes.) Tj
+0 -20 Td
+(A inteligencia artificial engloba uma gama mais ampla de) Tj
+0 -15 Td
+(tecnologias que visam criar sistemas capazes de realizar) Tj
+0 -15 Td
+(tarefas que normalmente requerem inteligencia humana.) Tj
+0 -20 Td
+(Isso inclui raciocinio, resolucao de problemas, percepcao) Tj
+0 -15 Td
+(e tomada de decisoes.) Tj
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000274 00000 n 
+0000000525 00000 n 
+trailer
+<<
+/Size 6
+/Root 1 0 R
+>>
+startxref
+617
+%%EOF
